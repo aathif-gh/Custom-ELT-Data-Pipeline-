@@ -1,4 +1,4 @@
-# Modern ELT Pipeline (Postgres → Python → Postgres)   
+# Custom ELT Data Pipeline (Postgres → Python → Postgres)   
 *A versioned Data Engineering project evolving into dbt + Airflow orchestration*
 
 
